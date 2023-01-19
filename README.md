@@ -3,7 +3,7 @@
 Assignment for Week 1 FSSE - Making simple personal website
 
 ## Website Link
-<https://w1-my-personal-website-mahdiharish.netlify.app/>
+<mahdiharish.netlify.app>
 
 ## Pages
 - Home
