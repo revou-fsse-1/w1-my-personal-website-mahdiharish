@@ -183,3 +183,22 @@ figcaption {
   background-color: #1f458e;
   color: black;
 }
+
+.button {
+  display: block;
+  background-color: black;
+  color: #e4eaef;
+  font-size: 35px;
+  margin: 50px;
+  border-style: solid 8px;
+  border-radius: 8px;
+  height: auto;
+  weight: auto;
+  text-align: center;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #e4eaef;
+  color: black;
+}
