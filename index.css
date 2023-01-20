@@ -199,8 +199,3 @@ figcaption {
   margin-top: 30px;
   margin-bottom: 60px;
 }
-
-.button:hover {
-  background-color: #e4eaef;
-  color: black;
-}
